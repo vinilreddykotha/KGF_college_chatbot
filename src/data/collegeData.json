@@ -1,0 +1,401 @@
+{
+  "college": {
+    "name": "Chettinad Academy of Research and Education (CARE) - KGF Campus",
+    "shortName": "CARE KGF",
+    "type": "Deemed-to-be University (under Section 3 of UGC Act 1956)",
+    "accreditation": "NAAC A++ Accredited",
+    "approvals": ["AICTE", "MCI / NMC", "INC", "PCI", "COA"],
+    "location": "36, DK Halli Road, BEML Nagar, Kolar Gold Fields (KGF), Karnataka – 563 115",
+    "phone": "+91 971 040 1000",
+    "email": "kolarenquiry@care.edu.in",
+    "website": "https://application.care.edu.in/kgf",
+    "campuses": ["KGF (Kolar Gold Fields), Karnataka", "Kelambakkam, Chennai", "Manamai", "Karur", "Kanadukathan"]
+  },
+  "knowledgeBase": [
+    {
+      "id": "all_courses_overview",
+      "category": "General college information",
+      "topic": "Academic Programs at CARE KGF",
+      "keywords": ["study", "programs", "all courses", "what can i study", "offerings", "curriculum", "degrees"],
+      "synonyms": ["disciplines", "majors", "academic options", "available study"],
+      "exampleQuestions": [
+        "What can I study here?",
+        "What courses are available?",
+        "What programs are offered at CARE KGF?",
+        "What degrees can I get here?"
+      ],
+      "answer": "CARE KGF Campus offers comprehensive degree programs across two major academic domains:\n\n### **1. Engineering & Technology (B.Tech - 4 Years):**\n- B.Tech in Computer Science and Engineering (CSE)\n- B.Tech in CSE (Artificial Intelligence & Machine Learning) [AI & ML]\n- B.Tech in Electronics and Communication Engineering (ECE)\n- B.Tech in ECE with VLSI Design & Technology\n*(Also offers Software Engineering and AI & Data Science. Includes HCL Training & Hostels)*\n\n### **2. Medical & Health Sciences:**\n- **B.Sc Allied Health Sciences** (Anaesthesia, Cardiac, MLT, Radiology, Perfusion, Emergency Care)\n- **Bachelor of Physiotherapy (BPT)**\n- **Bachelor of Occupational Therapy (BOT)**\n- **Bachelor of Pharmacy (B.Pharm)**\n- **B.Sc Nursing**\n\nBoth domains feature modern laboratories, clinical/industrial exposure, and dedicated placement training."
+    },
+    {
+      "id": "college_overview",
+      "category": "General college information",
+      "topic": "About CARE KGF Campus",
+      "keywords": ["about", "care", "kgf", "college", "university", "chettinad", "kolar", "overview", "introduction", "accreditation", "naac", "where", "location"],
+      "synonyms": ["institution", "academy", "details", "info", "background", "history", "ranking", "address"],
+      "exampleQuestions": [
+        "Tell me about CARE KGF",
+        "What is CARE KGF college?",
+        "Where is CARE KGF campus located?",
+        "Is Chettinad college NAAC accredited?",
+        "Tell me about Chettinad Academy of Research and Education in KGF"
+      ],
+      "answer": "**Chettinad Academy of Research and Education (CARE), KGF Campus** is a premier Deemed-to-be University accredited with **NAAC A++** and approved by statutory bodies including AICTE, MCI/NMC, INC, and PCI.\n\nLocated at **36, DK Halli Road, BEML Nagar, KGF, Karnataka – 563 115**, CARE KGF combines academic excellence with modern infrastructure, offering both **Engineering & Technology (B.Tech)** and **Medical & Allied Health Sciences** programs. The campus provides a vibrant learning environment with advanced laboratories, industry tie-ups (including HCL training), on-campus hostels, and comprehensive placement support."
+    },
+    {
+      "id": "engineering_courses",
+      "category": "Engineering courses",
+      "topic": "B.Tech Engineering Courses at KGF",
+      "keywords": ["engineering", "btech", "b.tech", "be", "b.e", "courses", "branches", "departments", "cse", "computer science", "ece", "electronics", "ai", "ml", "vlsi", "artificial intelligence", "machine learning"],
+      "synonyms": ["technical", "technology", "programs", "degrees", "streams", "specializations"],
+      "exampleQuestions": [
+        "Which engineering courses are available?",
+        "What B.Tech courses are offered at KGF campus?",
+        "Do you have Computer Science?",
+        "Is AI and ML available?",
+        "What engineering departments are there?",
+        "What branches can I study in B.Tech?",
+        "Do you have ECE VLSI?"
+      ],
+      "answer": "CARE KGF offers the following industry-oriented **B.Tech (Bachelor of Technology)** 4-year degree programs through the **Chettinad Institute of Technical Education and Research (CIT)**:\n\n1. **B.Tech - Computer Science and Engineering (CSE)**\n2. **B.Tech - CSE (Artificial Intelligence & Machine Learning) [AI & ML]**\n3. **B.Tech - Electronics and Communication Engineering (ECE)**\n4. **B.Tech - ECE (VLSI Design & Technology)**\n*(Additional programs include Software Engineering and AI & Data Science)*\n\nAll B.Tech programs feature hands-on laboratory practicals, modern computing facilities, industry-integrated curriculum, and specialized **HCL Training** included within the package."
+    },
+    {
+      "id": "course_cse",
+      "category": "Engineering courses",
+      "topic": "B.Tech Computer Science and Engineering (CSE)",
+      "keywords": ["cse", "computer science", "coding", "software", "programming", "it", "cs"],
+      "synonyms": ["computer", "computing", "software development"],
+      "exampleQuestions": [
+        "Do you have computer science?",
+        "Tell me about CSE course",
+        "What is B.Tech CSE at CARE KGF?",
+        "Is CSE available?"
+      ],
+      "answer": "**B.Tech in Computer Science and Engineering (CSE)** is one of our flagship 4-year programs. It covers core areas like Data Structures, Algorithms, Cloud Computing, Full Stack Web Development, Database Systems, Cybersecurity, and Software Engineering. Students receive dedicated **HCL tech training** and placement training with modern coding labs and industry projects."
+    },
+    {
+      "id": "course_aiml",
+      "category": "Engineering courses",
+      "topic": "B.Tech CSE (Artificial Intelligence & Machine Learning)",
+      "keywords": ["aiml", "ai", "ml", "artificial intelligence", "machine learning", "deep learning", "data science"],
+      "synonyms": ["neural networks", "automation", "intelligent systems"],
+      "exampleQuestions": [
+        "Is AI and ML available?",
+        "Do you have artificial intelligence course?",
+        "Tell me about CSE AI ML",
+        "Can I study AI and Machine Learning here?"
+      ],
+      "answer": "**Yes! B.Tech CSE (Artificial Intelligence & Machine Learning)** is actively offered at CARE KGF Campus. The curriculum covers Deep Learning, Machine Learning Algorithms, Natural Language Processing, Computer Vision, Neural Networks, and Big Data Analytics, supported by advanced GPU-enabled laboratories and industry-sponsored live projects."
+    },
+    {
+      "id": "course_ece_vlsi",
+      "category": "Engineering courses",
+      "topic": "B.Tech ECE & VLSI Design",
+      "keywords": ["ece", "electronics", "communication", "vlsi", "semiconductor", "embedded", "circuits", "hardware", "chip design"],
+      "synonyms": ["microelectronics", "chipset", "signal processing", "telecommunication"],
+      "exampleQuestions": [
+        "Tell me about ECE",
+        "Do you have electronics and communication?",
+        "What is VLSI Design & Technology?",
+        "Is ECE VLSI available?"
+      ],
+      "answer": "CARE KGF offers two specialized electronics programs:\n- **B.Tech in Electronics and Communication Engineering (ECE)**\n- **B.Tech in ECE with VLSI Design & Technology**\n\nThese programs focus on Semiconductor Technology, FPGA Design, Embedded Systems, IoT, Digital Signal Processing, and Microelectronics, equipping students for careers in semiconductor manufacturing, chip design, telecom, and hardware engineering."
+    },
+    {
+      "id": "medical_courses",
+      "category": "Medical courses",
+      "topic": "Medical & Health Sciences Programs",
+      "keywords": ["medical", "health", "allied", "doctor", "nursing", "pharmacy", "physiotherapy", "occupational therapy", "mbbs", "bpt", "bot", "bpharm", "b.sc", "cardiac", "anaesthesia", "radiology", "lab technology"],
+      "synonyms": ["paramedical", "healthcare", "clinical", "hospital", "patient care", "medic"],
+      "exampleQuestions": [
+        "What medical courses are available?",
+        "Do you have allied health sciences?",
+        "Do you offer nursing?",
+        "Is BPT physiotherapy available?",
+        "Tell me about pharmacy course",
+        "What healthcare courses are at KGF campus?"
+      ],
+      "answer": "CARE KGF campus offers a comprehensive suite of **Medical and Health Sciences** undergraduate programs through its specialized constituent institutes:\n\n1. **Chettinad Institute of Allied Education and Research (B.Sc Allied Health Sciences - 3 Years + 1 Year Internship):**\n   - Anaesthesia Technology\n   - Cardiac Technology\n   - Medical Laboratory Technology (MLT)\n   - Radiology & Imaging Science Technology\n   - Perfusion Technology\n   - Emergency and Trauma Care Technology\n2. **Chettinad Institute of Physiotherapy & Research:**\n   - **Bachelor of Physiotherapy (BPT)** – 4 Years + 6 Months/1 Year Internship\n3. **Chettinad Institute of Occupational Therapy & Research:**\n   - **Bachelor of Occupational Therapy (BOT)** – 4 Years + 1 Year Internship\n4. **Chettinad Institute of Pharmaceutical Education and Research:**\n   - **Bachelor of Pharmacy (B.Pharm)** – 4 Years (8 Semesters)\n5. **Chettinad School of Nursing:**\n   - **B.Sc Nursing** – 4 Years + 6 Months clinical internship\n\n*(Note: For specific medical fees and latest intake quotas, please contact the admissions office at +91 971 040 1000 or kolarenquiry@care.edu.in)*"
+    },
+    {
+      "id": "btech_fee_structure",
+      "category": "Fee structure",
+      "topic": "B.Tech Fee Structure (2026–27 Academic Year)",
+      "keywords": ["fee", "fees", "cost", "price", "package", "tuition", "how much", "btech fee", "engineering fee", "cse fee", "structure", "yearly", "year", "annual", "expense"],
+      "synonyms": ["payment", "charges", "expenditure", "installment", "rate"],
+      "exampleQuestions": [
+        "What is the fee structure?",
+        "What is the B.Tech fee?",
+        "How much does CSE cost?",
+        "Tell me the engineering fee structure",
+        "What is the four-year package fee?",
+        "How much should I pay per year?"
+      ],
+      "answer": "### **B.Tech Fee Package (2026–27 Academic Year – KGF Campus)**\nThe 4-year fee package is tiered based on your **+2 / 12th board percentage**:\n\n- **Above 85% (+2 marks):** Total Package **₹7,40,000** *(Limited seats)*\n  - Year 1: ₹2,60,000 | Year 2: ₹1,60,000 | Year 3: ₹1,60,000 | Year 4: ₹1,60,000\n- **75% – 84% (+2 marks):** Total Package **₹8,40,000** *(Limited seats)*\n  - Year 1: ₹2,85,000 | Year 2: ₹1,85,000 | Year 3: ₹1,85,000 | Year 4: ₹1,85,000\n- **60% – 74% (+2 marks):** Total Package **₹9,40,000** *(Limited seats)*\n  - Year 1: ₹3,10,000 | Year 2: ₹2,10,000 | Year 3: ₹2,10,000 | Year 4: ₹2,10,000\n- **Below 59% (+2 marks):** Total Package **₹10,40,000**\n  - Year 1: ₹3,35,000 | Year 2: ₹2,35,000 | Year 3: ₹2,35,000 | Year 4: ₹2,35,000\n- **Below 50% (+2 marks - as separately listed):** Total Package **₹11,40,000**\n  - ₹2,85,000 per year (Years 1 to 4)\n\n*(Note on overlapping bands: As listed in the official circular, categories exist for both 'Below 59%' and 'Below 50%'. Please confirm your exact percentage band with the admissions office.)*\n\n**Package Inclusions:**\n- Includes **Tuition Fees, Hostel Accommodation, and HCL Training**.\n- Hostel is 2, 3 or 4 sharing with non-attached washrooms, subject to availability.\n- Food/mess fees may vary based on food, cooking materials and essential supplies.\n- Value-added courses and university exam fees are additional."
+    },
+    {
+      "id": "fee_percentage_above_85",
+      "category": "Fee structure",
+      "topic": "Fee for Above 85% (+2 marks)",
+      "keywords": ["above 85", "85%", "86%", "87%", "88%", "89%", "90%", "92%", "95%", "98%", "top marks", "merit fee"],
+      "synonyms": ["first tier", "highest marks", "distinction"],
+      "exampleQuestions": [
+        "What is the fee for students above 85%?",
+        "How much is the CSE fee for students scoring above 85%?",
+        "I scored 90%, what is my fee?",
+        "Fee for 88 percent"
+      ],
+      "answer": "For students scoring **above 85% in +2 / 12th board**:\n\n- **Total 4-Year Package Fee:** **₹7,40,000** *(Limited seats only)*\n- **1st Year Fee:** ₹2,60,000\n- **2nd Year Fee:** ₹1,60,000\n- **3rd Year Fee:** ₹1,60,000\n- **4th Year Fee:** ₹1,60,000\n\n**Included in Package:** Tuition fees, Hostel accommodation (2/3/4 sharing, non-attached washroom), and specialized HCL training."
+    },
+    {
+      "id": "fee_percentage_75_84",
+      "category": "Fee structure",
+      "topic": "Fee for 75% – 84% (+2 marks)",
+      "keywords": ["75%", "76%", "77%", "78%", "79%", "80%", "81%", "82%", "83%", "84%", "80 percent", "75 to 84"],
+      "synonyms": ["second tier", "first class"],
+      "exampleQuestions": [
+        "What is the fee for 80%?",
+        "Fee for 75 to 84 percent?",
+        "I got 82%, what will be my fee?",
+        "What is the fee for 78% in 12th?"
+      ],
+      "answer": "For students scoring between **75% – 84% in +2 / 12th board**:\n\n- **Total 4-Year Package Fee:** **₹8,40,000** *(Limited seats only)*\n- **1st Year Fee:** ₹2,85,000\n- **2nd Year Fee:** ₹1,85,000\n- **3rd Year Fee:** ₹1,85,000\n- **4th Year Fee:** ₹1,85,000\n\n**Included in Package:** Tuition fees, Hostel accommodation (2/3/4 sharing, non-attached washroom), and specialized HCL training."
+    },
+    {
+      "id": "fee_percentage_60_74",
+      "category": "Fee structure",
+      "topic": "Fee for 60% – 74% (+2 marks)",
+      "keywords": ["60%", "62%", "65%", "68%", "70%", "72%", "74%", "65 percent", "70 percent", "60 to 74"],
+      "synonyms": ["third tier", "average marks"],
+      "exampleQuestions": [
+        "What if I score 70% in +2?",
+        "What is the fee for 65%?",
+        "Fee for 60 to 74 percent?",
+        "I have 68%, how much fee?"
+      ],
+      "answer": "For students scoring between **60% – 74% in +2 / 12th board**:\n\n- **Total 4-Year Package Fee:** **₹9,40,000** *(Limited seats only)*\n- **1st Year Fee:** ₹3,10,000\n- **2nd Year Fee:** ₹2,10,000\n- **3rd Year Fee:** ₹2,10,000\n- **4th Year Fee:** ₹2,10,000\n\n**Included in Package:** Tuition fees, Hostel accommodation (2/3/4 sharing, non-attached washroom), and specialized HCL training."
+    },
+    {
+      "id": "fee_percentage_below_59",
+      "category": "Fee structure",
+      "topic": "Fee for Below 59% & Below 50% (+2 marks)",
+      "keywords": ["below 59", "55%", "52%", "50%", "45%", "below 50", "low percentage", "minimum marks", "passing percentage"],
+      "synonyms": ["fourth tier", "fifth tier", "second class"],
+      "exampleQuestions": [
+        "What is the fee for students below 59%?",
+        "What if I score below 50%?",
+        "What is the fee for 55% in 12th?",
+        "How much fee for below 50 percent?"
+      ],
+      "answer": "According to the official circular, fees for percentages below 60% are structured as follows:\n\n- **Below 59% Category:** Total Package **₹10,40,000**\n  - Year 1: ₹3,35,000 | Year 2: ₹2,35,000 | Year 3: ₹2,35,000 | Year 4: ₹2,35,000\n- **Below 50% Category (separately listed in schedule):** Total Package **₹11,40,000**\n  - Year 1: ₹2,85,000 | Year 2: ₹2,85,000 | Year 3: ₹2,85,000 | Year 4: ₹2,85,000\n\n⚠️ **Notice on Overlapping Bands:** The supplied fee schedule presents both 'Below 59%' and 'Below 50%' as separate categories. Because these ranges overlap, we advise students scoring under 59% to confirm their exact applicable fee band directly with the CARE KGF Admissions Office."
+    },
+    {
+      "id": "hostel_facilities",
+      "category": "Hostel",
+      "topic": "Hostel Facilities & Accommodation",
+      "keywords": ["hostel", "stay", "accommodation", "room", "mess", "food", "sharing", "washroom", "living", "boys hostel", "girls hostel", "boarding"],
+      "synonyms": ["residence", "dormitory", "housing", "quarters"],
+      "exampleQuestions": [
+        "Is hostel available?",
+        "Where can students stay?",
+        "Do you provide accommodation?",
+        "Is there a hostel facility?",
+        "Is hostel included in the package?",
+        "What are the hostel room sharing options?"
+      ],
+      "answer": "**Yes, comprehensive hostel facilities are available for both boys and girls at CARE KGF Campus!**\n\nKey Highlights:\n- **Included in B.Tech Package:** The B.Tech fee package already includes hostel accommodation.\n- **Room Sharing:** Rooms are available on **2, 3, or 4 sharing** basis with non-attached washrooms (subject to availability).\n- **Food & Mess:** Wholesome, hygienic food is served in the campus dining hall. *(Note: Hostel mess fees may fluctuate based on market rates for food items, cooking materials, and essentials)*.\n- **Amenities:** 24/7 campus security, CCTV surveillance, Wi-Fi connectivity, RO purified drinking water, continuous power backup, common recreation rooms, and study halls."
+    },
+    {
+      "id": "hcl_training",
+      "category": "Engineering courses",
+      "topic": "HCL Training Inclusion",
+      "keywords": ["hcl", "training", "hcl training", "industry training", "corporate training", "skill", "tech training"],
+      "synonyms": ["certification", "skill development", "placement training"],
+      "exampleQuestions": [
+        "Is HCL training included?",
+        "What is HCL training in B.Tech?",
+        "Does the fee include HCL training?",
+        "Tell me about HCL tie-up"
+      ],
+      "answer": "**Yes! Specialized HCL Training is directly included in the B.Tech fee package at no extra charge.**\n\nThis industry-driven program provides:\n- In-demand technical skills taught by industry practitioners.\n- Practical training in full stack development, AI/ML tools, cloud environments, and enterprise software engineering.\n- Hands-on capstone projects aligned with current IT industry benchmarks.\n- Priority internship and recruitment pathways through HCL and affiliated tech enterprises."
+    },
+    {
+      "id": "admission_process",
+      "category": "Admission",
+      "topic": "Admission Process & How to Apply",
+      "keywords": ["admission", "apply", "join", "how to apply", "application", "register", "process", "portal", "steps", "counseling", "admissions"],
+      "synonyms": ["enroll", "enrolment", "registration", "seat booking"],
+      "exampleQuestions": [
+        "How can I join?",
+        "What is the admission process?",
+        "How do I apply?",
+        "How can I apply for admission?",
+        "What are the steps to apply online?",
+        "Where is the application link?"
+      ],
+      "answer": "You can apply for admissions at CARE KGF through these simple steps:\n\n1. **Step 1: Register Online** – Visit the official portal at [application.care.edu.in/kgf](https://application.care.edu.in/kgf) and enter your basic details.\n2. **Step 2: Verify Email** – Confirm your email address through the verification link/OTP sent to you.\n3. **Step 3: Fill Application Form** – Provide your academic records (+2 / 12th marks), course preferences, and personal details.\n4. **Step 4: Pay Application Fee & Upload Documents** – Upload your marks card, photo, and ID, then complete payment.\n5. **Step 5: Counseling & Seat Allotment** – Merit verification and seat confirmation based on available quotas.\n\nFor assistance, you can also call the admissions helpline at **+91 971 040 1000** or email **kolarenquiry@care.edu.in**."
+    },
+    {
+      "id": "eligibility_criteria",
+      "category": "Eligibility",
+      "topic": "Eligibility Criteria for Courses",
+      "keywords": ["eligibility", "eligible", "qualification", "criteria", "requirements", "marks required", "minimum percentage", "pass marks"],
+      "synonyms": ["prerequisites", "cut-off", "standards"],
+      "exampleQuestions": [
+        "What is the eligibility for B.Tech?",
+        "What are the eligibility criteria?",
+        "Can I join with 50%?",
+        "Who is eligible for medical courses?",
+        "What qualification do I need?"
+      ],
+      "answer": "### **Eligibility Criteria at CARE KGF Campus:**\n\n- **B.Tech Programs (CSE, AI&ML, ECE, VLSI):**\n  - Must have passed 10+2 / Higher Secondary examination with **Physics and Mathematics** as compulsory subjects along with Chemistry / Computer Science / Electronics / Biology.\n  - Fee tiers are decided based on aggregate percentage scored in 12th standard.\n\n- **B.Sc Allied Health Sciences (Anaesthesia, Cardiac, MLT, Radiology, etc.):**\n  - Must have passed 10+2 with **Physics, Chemistry, and Biology (PCB)**.\n\n- **Bachelor of Physiotherapy (BPT) & Occupational Therapy (BOT):**\n  - Passed 10+2 with English, Physics, Chemistry, and Biology.\n\n- **Bachelor of Pharmacy (B.Pharm):**\n  - Passed 10+2 with Physics and Chemistry, along with Mathematics or Biology.\n\n- **B.Sc Nursing:**\n  - Passed 10+2 with PCB and English with minimum 45% aggregate as per INC guidelines."
+    },
+    {
+      "id": "scholarships",
+      "category": "Scholarships",
+      "topic": "Scholarships & Fee Concessions",
+      "keywords": ["scholarship", "scholarships", "concession", "financial aid", "waiver", "discount", "merit scholarship", "sports scholarship"],
+      "synonyms": ["grant", "stipend", "bursary", "fee reduction"],
+      "exampleQuestions": [
+        "Are scholarships available?",
+        "Does CARE offer scholarships?",
+        "How can I get a scholarship?",
+        "Is there any fee waiver for good marks?",
+        "Tell me about scholarships"
+      ],
+      "answer": "### **Scholarships & Merit Benefits at CARE KGF:**\n\n1. **Built-in Merit-Based Fee Structure:**\n   - Students scoring **above 85% in +2** receive our highest merit tier package of **₹7,40,000** for the entire 4 years (saving ₹3 Lakhs to ₹4 Lakhs compared to other tiers)!\n   - Scored 75%–84%: Discounted package of **₹8,40,000**.\n2. **University Institutional Scholarships:**\n   - Chettinad Academy of Research and Education supports more than 2,500 students across campuses each year with scholarships extending **up to 100% tuition waiver** for outstanding academic achievers, sports persons, and economically disadvantaged candidates.\n\nTo apply for specialized scholarship categories, submit your scholarship application during admission counseling."
+    },
+    {
+      "id": "placements",
+      "category": "Placements",
+      "topic": "Placements & Career Opportunities",
+      "keywords": ["placement", "placements", "job", "career", "salary", "package", "companies", "recruiters", "interview", "internship", "hiring"],
+      "synonyms": ["employment", "campus drive", "highest package", "average package"],
+      "exampleQuestions": [
+        "What are the placements like?",
+        "Which companies hire from CARE KGF?",
+        "Is placement assistance provided?",
+        "Do you have 100% placement?",
+        "Tell me about job opportunities"
+      ],
+      "answer": "### **Placements at CARE KGF Campus:**\n\n- **Dedicated Training & Placement Cell:** Offers rigorous corporate training, aptitude grooming, mock interviews, and soft-skill workshops starting from early semesters.\n- **Integrated HCL Training:** Direct partnership with HCL delivers industry readiness and gives students a strong edge for placement drives.\n- **Multidisciplinary Opportunities:**\n  - **Engineering Graduates:** Placed across software engineering, cloud architecture, AI solutions, embedded systems, and VLSI companies.\n  - **Medical & Allied Health Sciences Graduates:** Placed in top multi-specialty hospitals, research institutes, diagnostics networks, and healthcare centers across India and abroad.\n- **Industry Partners:** Top IT enterprises, MNCs, healthcare conglomerates, and pharmaceutical organizations regularly recruit from CARE."
+    },
+    {
+      "id": "campus_facilities",
+      "category": "Campus facilities",
+      "topic": "Campus Facilities & Infrastructure",
+      "keywords": ["facilities", "campus", "infrastructure", "library", "lab", "labs", "sports", "gym", "wifi", "cafeteria", "canteen", "transport", "bus", "hospital"],
+      "synonyms": ["amenities", "grounds", "auditorium", "hostels", "classrooms"],
+      "exampleQuestions": [
+        "What campus facilities are available?",
+        "Tell me about the infrastructure",
+        "Is there a library and sports ground?",
+        "Are there computer labs?",
+        "Does the campus have Wi-Fi and bus transport?"
+      ],
+      "answer": "**CARE KGF Campus** features state-of-the-art facilities designed for both academic excellence and student well-being:\n\n- 🖥️ **Hi-Tech Computing & Engineering Labs:** Modern computers equipped with AI/ML tools, VLSI software, and high-speed fiber-optic internet.\n- 🏥 **Advanced Clinical & Simulation Labs:** Specialized skill labs for Nursing, Physiotherapy, and Allied Health Sciences.\n- 📚 **Comprehensive Central Library:** Vast collection of textbooks, research journals, e-books, and quiet digital study zones.\n- 🏡 **Secure Student Hostels:** Separate accommodation for men and women with Wi-Fi, dining, and round-the-clock security.\n- ⚽ **Sports & Fitness:** Cricket/football ground, volleyball/badminton courts, and indoor recreation spaces.\n- 🍽️ **Hygienic Cafeteria:** Wholesome, multi-cuisine meals and refreshments.\n- 🚌 **Campus Transport:** Dedicated college bus services connecting major hubs in KGF and surrounding areas."
+    },
+    {
+      "id": "contact_info",
+      "category": "Contact",
+      "topic": "Contact Information & Helplines",
+      "keywords": ["contact", "phone", "email", "number", "helpline", "call", "reach", "visit", "address", "location", "inquiry", "enquiry", "where to contact", "more information"],
+      "synonyms": ["touch", "office", "desk", "hotline", "admissions office"],
+      "exampleQuestions": [
+        "What is the contact information?",
+        "Where can I get more information?",
+        "How can I contact CARE KGF?",
+        "What is the phone number and email?",
+        "What is the college address?"
+      ],
+      "answer": "### **Contact CARE KGF Campus:**\n\n- 📍 **Campus Address:**\n  Chettinad Academy of Research and Education (CARE) – KGF Campus\n  36, DK Halli Road, BEML Nagar, Kolar Gold Fields (KGF), Karnataka – 563 115\n- 📞 **Admissions Helpline / Phone:** **+91 971 040 1000**\n- ✉️ **Email Address:** [kolarenquiry@care.edu.in](mailto:kolarenquiry@care.edu.in)\n- 🌐 **Online Application Portal:** [application.care.edu.in/kgf](https://application.care.edu.in/kgf)\n\nThe admissions desk is open Monday through Saturday from 9:00 AM to 5:30 PM. Feel free to reach out for campus visits and counseling!"
+    },
+    {
+      "id": "medical_fee_inquiry",
+      "category": "Fee structure",
+      "topic": "Medical & Allied Health Sciences Fees",
+      "keywords": ["medical fee", "allied health fee", "nursing fee", "bpt fee", "pharmacy fee", "bpharm fee", "bot fee", "cost of medical"],
+      "synonyms": ["health course fee", "hospital course cost"],
+      "exampleQuestions": [
+        "What is the medical course fee?",
+        "How much is the fee for B.Sc Allied Health Sciences?",
+        "What is the B.Sc Nursing fee?",
+        "What is the BPT fee structure?",
+        "How much does B.Pharm cost?"
+      ],
+      "answer": "Fee structures for **Medical and Allied Health Sciences** (B.Sc Allied Health Sciences, B.Sc Nursing, BPT Physiotherapy, BOT Occupational Therapy, and B.Pharm) vary based on the clinical specialization, laboratory components, and merit quota.\n\nPlease contact the **CARE KGF Admissions Office** directly at **+91 971 040 1000** or email **kolarenquiry@care.edu.in** for the official medical program fee sheet and current seat availability."
+    }
+  ],
+  "quickQuestions": [
+    "Which engineering courses are available?",
+    "Do you have computer science?",
+    "Is AI and ML available?",
+    "Tell me about B.Tech fee structure",
+    "How much is the CSE fee for students scoring above 85%?",
+    "What is the fee for 80%?",
+    "What if I score 70% in +2?",
+    "What is the fee for students below 59%?",
+    "Is hostel included in the package?",
+    "Is HCL training included?",
+    "How can I apply for admission?",
+    "What medical courses are available?",
+    "What campus facilities are available?",
+    "Where can I get more information?"
+  ],
+  "feeBands": [
+    {
+      "range": "Above 85%",
+      "minPercentage": 85,
+      "maxPercentage": 100,
+      "package": "₹7,40,000",
+      "year1": "₹2,60,000",
+      "year2": "₹1,60,000",
+      "year3": "₹1,60,000",
+      "year4": "₹1,60,000",
+      "note": "Limited seats only. Highest merit tier."
+    },
+    {
+      "range": "75% – 84%",
+      "minPercentage": 75,
+      "maxPercentage": 84.99,
+      "package": "₹8,40,000",
+      "year1": "₹2,85,000",
+      "year2": "₹1,85,000",
+      "year3": "₹1,85,000",
+      "year4": "₹1,85,000",
+      "note": "Limited seats only."
+    },
+    {
+      "range": "60% – 74%",
+      "minPercentage": 60,
+      "maxPercentage": 74.99,
+      "package": "₹9,40,000",
+      "year1": "₹3,10,000",
+      "year2": "₹2,10,000",
+      "year3": "₹2,10,000",
+      "year4": "₹2,10,000",
+      "note": "Limited seats only."
+    },
+    {
+      "range": "Below 59%",
+      "minPercentage": 50,
+      "maxPercentage": 59.99,
+      "package": "₹10,40,000",
+      "year1": "₹3,35,000",
+      "year2": "₹2,35,000",
+      "year3": "₹2,35,000",
+      "year4": "₹2,35,000",
+      "note": "For students scoring under 60%."
+    },
+    {
+      "range": "Below 50%",
+      "minPercentage": 0,
+      "maxPercentage": 49.99,
+      "package": "₹11,40,000",
+      "year1": "₹2,85,000",
+      "year2": "₹2,85,000",
+      "year3": "₹2,85,000",
+      "year4": "₹2,85,000",
+      "note": "Separately listed in the official circular. Overlapping with Below 59% category."
+    }
+  ]
+}
